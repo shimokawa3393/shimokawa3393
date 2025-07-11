@@ -1,16 +1,48 @@
-## Hi there 👋
+# はじめに
 
-<!--
-**shimokawa3393/shimokawa3393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「なぜその構成にしたか」「どう使われるか」まで考えながら作れる開発者を目指しています。  
+仕組みで価値を生み出せるよう、設計・自動化・運用まで少しずつ手を伸ばしています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 使用技術
+
+**バックエンド**  
+- Python / Django / Flask
+
+**フロントエンド**  
+- React / JavaScript / TypeScript
+
+**注力分野**  
+- 自動化  
+- AI連携  
+- UX設計
+
+---
+
+## 開発実績
+
+**StockManager**  
+銘柄ベースで財務指標を取得・計算・可視化する株管理ツール。  
+yfinanceやChatGPTを連携し、直感的な株選定を目指す。
+
+**ストーリー生成Bot**  
+こどもの声から絵本を自動生成し、SNSに自動投稿するBot。  
+共感や癒しを届ける仕組みとして実験中。
+
+---
+
+## 得意領域
+
+- API連携 / 外部サービス統合  
+- 自動投稿Botの設計・構築  
+- 自然言語処理とフロントの融合  
+- ユーザー視点を意識した設計  
+- 手戻りを抑えたスピーディな開発
+
+---
+
+## お問い合わせ
+
+気になるプロジェクトがあれば、IssueやPull Requestなどからご連絡ください。  
+一緒に仕組みづくりを楽しめる方も歓迎しています。
